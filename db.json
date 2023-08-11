@@ -1,0 +1,93 @@
+{
+    "fruit1": {
+      "name": "Apple",
+      "color": "Red",
+      "origin": "North America",
+      "taste": "Sweet and slightly tart",
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "nutrients": ["Fiber", "Antioxidants"],
+      "uses": ["Eating fresh", "Making cider", "Baking"]
+    },
+    "fruit2": {
+      "name": "Banana",
+      "color": "Yellow",
+      "origin": "Southeast Asia",
+      "taste": "Sweet",
+      "vitamins": ["Vitamin B6", "Vitamin C"],
+      "nutrients": ["Potassium", "Dietary Fiber"],
+      "uses": ["Eating fresh", "Smoothies", "Baking"]
+    },
+    "fruit3": {
+      "name": "Orange",
+      "color": "Orange",
+      "origin": "Asia",
+      "taste": "Sweet and tangy",
+      "vitamins": ["Vitamin C"],
+      "nutrients": ["Fiber", "Calcium"],
+      "uses": ["Eating fresh", "Juicing", "Flavoring"]
+    },
+    "fruit4": {
+      "name": "Grapes",
+      "color": "Green, Red, Purple",
+      "origin": "Various regions",
+      "taste": "Sweet and juicy",
+      "vitamins": ["Vitamin K", "Vitamin C"],
+      "nutrients": ["Resveratrol", "Antioxidants"],
+      "uses": ["Eating fresh", "Making wine", "Snacking"]
+    },
+    "fruit5": {
+      "name": "Pineapple",
+      "color": "Yellow",
+      "origin": "South America",
+      "taste": "Sweet and tangy",
+      "vitamins": ["Vitamin C"],
+      "nutrients": ["Bromelain", "Fiber"],
+      "uses": ["Eating fresh", "Cocktails", "Salsas"]
+    },
+    "fruit6": {
+      "name": "Mango",
+      "color": "Yellow, Orange",
+      "origin": "South Asia",
+      "taste": "Sweet and tropical",
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "nutrients": ["Fiber", "Potassium"],
+      "uses": ["Eating fresh", "Smoothies", "Chutneys"]
+    },
+    "fruit7": {
+      "name": "Strawberry",
+      "color": "Red",
+      "origin": "Europe",
+      "taste": "Sweet and slightly tart",
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "nutrients": ["Fiber", "Antioxidants"],
+      "uses": ["Eating fresh", "Desserts", "Jam making"]
+    },
+    "fruit8": {
+      "name": "Watermelon",
+      "color": "Green with Red/Pink Flesh",
+      "origin": "Africa",
+      "taste": "Sweet and refreshing",
+      "vitamins": ["Vitamin C"],
+      "nutrients": ["Hydration", "Lycopene"],
+      "uses": ["Eating fresh", "Summer salads", "Beverages"]
+    },
+    "fruit9": {
+      "name": "Kiwi",
+      "color": "Green",
+      "origin": "China",
+      "taste": "Tangy and sweet",
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "nutrients": ["Fiber", "Potassium"],
+      "uses": ["Eating fresh", "Fruit salads", "Smoothies"]
+    },
+    "fruit10": {
+      "name": "Blueberry",
+      "color": "Blue",
+      "origin": "North America",
+      "taste": "Sweet and slightly tangy",
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "nutrients": ["Antioxidants", "Fiber"],
+      "uses": ["Eating fresh", "Baking", "Adding to cereals"]
+    }
+  }
+  
