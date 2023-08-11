@@ -5,36 +5,28 @@
       "color": "Red",
       "origin": "North America",
       "taste": "Sweet and slightly tart",
-      "vitamins": ["Vitamin C", "Vitamin A"],
-      "nutrients": ["Fiber", "Antioxidants"],
-      "uses": ["Eating fresh", "Making cider", "Baking"]
+      "vitamins": ["Vitamin C", "Vitamin A"]
     },
     "fruit2": {
       "name": "Banana",
       "color": "Yellow",
       "origin": "Southeast Asia",
       "taste": "Sweet",
-      "vitamins": ["Vitamin B6", "Vitamin C"],
-      "nutrients": ["Potassium", "Dietary Fiber"],
-      "uses": ["Eating fresh", "Smoothies", "Baking"]
+      "vitamins": ["Vitamin B6", "Vitamin C"]
     },
     "fruit3": {
       "name": "Orange",
       "color": "Orange",
       "origin": "Asia",
       "taste": "Sweet and tangy",
-      "vitamins": ["Vitamin C"],
-      "nutrients": ["Fiber", "Calcium"],
-      "uses": ["Eating fresh", "Juicing", "Flavoring"]
+      "vitamins": ["Vitamin C"]
     },
     "fruit4": {
       "name": "Grapes",
       "color": "Green, Red, Purple",
       "origin": "Various regions",
       "taste": "Sweet and juicy",
-      "vitamins": ["Vitamin K", "Vitamin C"],
-      "nutrients": ["Resveratrol", "Antioxidants"],
-      "uses": ["Eating fresh", "Making wine", "Snacking"]
+      "vitamins": ["Vitamin K", "Vitamin C"]
     },
     "fruit5": {
       "name": "Pineapple",
@@ -42,7 +34,5 @@
       "origin": "South America",
       "taste": "Sweet and tangy",
       "vitamins": ["Vitamin C"],
-      "nutrients": ["Bromelain", "Fiber"],
-      "uses": ["Eating fresh", "Cocktails", "Salsas"]
     }
     ]
