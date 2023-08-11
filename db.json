@@ -1,5 +1,4 @@
-[
-    {
+{
     "fruit1": {
       "name": "Apple",
       "color": "Red",
@@ -33,6 +32,5 @@
       "color": "Yellow",
       "origin": "South America",
       "taste": "Sweet and tangy",
-      "vitamins": ["Vitamin C"],
-    }
-    ]
+      "vitamins": ["Vitamin C"]
+}
